@@ -1,6 +1,6 @@
 Hello! 👋 I am a Project Research Associate studying __ferns__, an ancient and diverse lineage of vascular plants.
 
-I am an enthusiastic adherent of __reproducible analysis__, especially with __R__. 
+I am an enthusiastic adherent of __reproducible data analysis__, especially with __R__. 
 
 Please check out https://www.joelnitta.com/ for more info.
 
