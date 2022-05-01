@@ -9,7 +9,7 @@ Please check out https://www.joelnitta.com/ for more info.
 ### R packages 📦
 
 - [canaper](https://github.com/joelnitta/canaper): Categorial analysis of neo-and paleo-endemism. Currently [in review](https://github.com/ropensci/software-review/issues/475) at ROpenSci.
-- [taxastand](https://github.com/joelnitta/canaper): Standardize species names across data sources
+- [taxastand](https://github.com/joelnitta/taxastand): Standardize species names across data sources
 - [dwctaxon](https://github.com/joelnitta/dwctaxon): Tools for working with Darwin Core Taxon data
 - [rmdref](https://github.com/joelnitta/rmdref): Tools for reference management in Rmarkdown
 - [gbfetch](https://github.com/joelnitta/gbfetch): Fetch sequences from GenBank
