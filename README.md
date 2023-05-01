@@ -1,4 +1,4 @@
-Hello! 👋 I am a Project Research Associate studying __ferns__, an ancient and diverse lineage of vascular plants.
+Hello! 👋 I am a Associate Profesor at Chiba University studying __ferns__, an ancient and diverse lineage of vascular plants.
 
 I am an enthusiastic adherent of __reproducible data analysis__, especially with __R__. 
 
